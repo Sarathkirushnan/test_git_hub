@@ -8,4 +8,6 @@ commit -m ''
 checkout master
 git merge push_test
 
+********kimar
+
 git push --set-upstreem origin master
