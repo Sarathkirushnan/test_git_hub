@@ -7,5 +7,9 @@ add .
 commit -m ''
 checkout master
 git merge push_test
+git pull origin branchName
 
+********kimar
+
+git push --set-upstreem origin master
 git push --set-upstreem origin master
