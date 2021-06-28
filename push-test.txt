@@ -1,6 +1,11 @@
 home
 checkout push_test
 add .
+
+///////---
+
 commit -m ''
 checkout master
 git merge push_test
+
+git push --set-upstreem origin master
