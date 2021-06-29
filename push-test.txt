@@ -1,10 +1,12 @@
 home
 checkout push_test
 add .
-///////---
+//////
+kumaru
 kjdfl;sjk
 commit -m ''
 checkout master
 git merge push_test
 ********kimar
+git push --set-upstreem origin master
 git push --set-upstreem origin master
