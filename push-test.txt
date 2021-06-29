@@ -2,7 +2,7 @@ home
 checkout push_test
 add .
 ///////---
-kjdfl;sjk
+kjdfl
 commit -m ''
 checkout master
 git merge push_test
